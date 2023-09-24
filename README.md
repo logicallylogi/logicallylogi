@@ -13,5 +13,3 @@ Here are some quick facts about me:
 - 🎵 My favorite music is Alternative (Linkin Park!)
 - 🍗 My favorite food is Buffalo Chicken Pizza
 - ❓ Ask me about my Bettas
-
-**View the `ABOUT.md` file for information about this repository.**

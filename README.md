@@ -11,8 +11,8 @@ Hey, my name is Logic! I am a software developer with a focus on free open sourc
 - ✉️ I am reachable at logicallylogi@outlook.com for secure communication
     - I keep a PGP key in my main repository (`logicallylogi/logicallylogi`) at `security/public.asc`
     - If, for whatever reason, you do not trust this key, it is also stored at:
-        - [keys.openpgp.org](https://keys.openpgp.org/search?q=me%40logicallylogi.me)
-        - [pgp.surfnet.nl](https://pgp.surfnet.nl/pks/lookup?search=me%40logicallylogi.me&fingerprint=on)
+        - [keys.openpgp.org](https://keys.openpgp.org/search?q=logicallylogi%40outlook.com)
+        - [pgp.surfnet.nl](http://pgp.surfnet.nl/pks/lookup?search=logicallylogi%40outlook.com&fingerprint=on&op=index)
 
         - These locations are subject to change, as I intend on adding more and more locations to obtain my latest PGP keys.
 - 🤷 I am nonbinary and I use the pronouns they/them

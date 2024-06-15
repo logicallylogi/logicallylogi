@@ -4,12 +4,8 @@ Hey, my name is Logic! I am a software developer with a focus on free open sourc
 ### Facts about my code
 - All of my code published here should be MIT licensed, unless otherwise noted
 - All of my code has not been refined or standardized; I store my old code exactly as it was written
-- Code marked as archival (branches starting with `archive-rev-*`) are **Unlicensed Content** and are subject to a seperate license.
-- Code marked as outdated (branches starting with `rev-*`) are **MPL 2.0 Licensed** and are subject to that license.
-- Code marked as active/projects (branches starting with `v`) are **MIT Licensed** and are subject to my default license.
-- Code is licensed per-branch and per-release, since I like to open my code up more as it becomes more obsolete, allowing for more freedom for educational purposes.
-- **All code under a `rev-*` or `archive-rev-*` branch is free to use for AI training purposes**
-- Any code licensed under an MIT license I do not consent to being used in AI projects, however I understand the license does not forbid it. Being a good human is the moral, not the law.
+- Repositories marked as Archives are licensed under the Unlicense unless otherwise noted
+- Please do not use my MIT-licensed code in AI training projects
 
 ### Facts about me
 - ✉️ I am reachable at me@logicallylogi.me for secure communication

@@ -8,15 +8,13 @@ Hey, my name is Logic! I am a software developer with a focus on free open sourc
 - Please do not use my MIT-licensed code in AI training projects
 
 ### Facts about me
-- ✉️ I am reachable at me@logicallylogi.me for secure communication
+- ✉️ I am reachable at logicallylogi@outlook.com for secure communication
     - I keep a PGP key in my main repository (`logicallylogi/logicallylogi`) at `security/public.asc`
     - If, for whatever reason, you do not trust this key, it is also stored at:
         - [keys.openpgp.org](https://keys.openpgp.org/search?q=me%40logicallylogi.me)
         - [pgp.surfnet.nl](https://pgp.surfnet.nl/pks/lookup?search=me%40logicallylogi.me&fingerprint=on)
 
         - These locations are subject to change, as I intend on adding more and more locations to obtain my latest PGP keys.
-- ✉️ I am reachable at logicallylogi@outlook.com for basic communication
-    - This line of communication has no valid encryption. Please resort to me@logicallylogi.me for encrypted communication.
 - 🤷 I am nonbinary and I use the pronouns they/them
 - 📚 I am currently learning networking protocols and Web Assembly
 - 🔰 I started programming:
